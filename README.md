@@ -1,7 +1,7 @@
-## What is Git
+<!-- ## What is Git?
 Git is a version control system software that lets you manage and keep track of your source code history.
 
-## What is Github
+## What is Github?
 GitHub is a cloud-based hosting service that lets you manage Git repositories.
 
 ### Using loops to make your first game in Python
